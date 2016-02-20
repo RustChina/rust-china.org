@@ -1,0 +1,3 @@
+[submodule "theme/again"]
+	path = theme/again
+	url = https://github.com/tennix/hexo-theme-again
