@@ -7,14 +7,14 @@ title: Rust Primer -- Rust 中文入门教程
 
 ### 在线阅读地址
 
-* [最新版](https://rust-china.org/rustprimer/latest)
-* [1.1.1](https://rust-china.org/rustprimer/v1.1.1)
-* [1.1.0](https://rust-china.org/rustprimer/v1.1.0)
-* [1.0.7](https://rust-china.org/rustprimer/v1.0.7)
-* [1.0.6](https://rust-china.org/rustprimer/v1.0.6)
-* [1.0.5](https://rust-china.org/rustprimer/v1.0.5)
-* [1.0.4](https://rust-china.org/rustprimer/v1.0.4)
-* [1.0.3](https://rust-china.org/rustprimer/v1.0.3)
+* [最新版](https://rust-china.org/rust-primer/latest)
+* [1.1.1](https://rust-china.org/rust-primer/v1.1.1)
+* [1.1.0](https://rust-china.org/rust-primer/v1.1.0)
+* [1.0.7](https://rust-china.org/rust-primer/v1.0.7)
+* [1.0.6](https://rust-china.org/rust-primer/v1.0.6)
+* [1.0.5](https://rust-china.org/rust-primer/v1.0.5)
+* [1.0.4](https://rust-china.org/rust-primer/v1.0.4)
+* [1.0.3](https://rust-china.org/rust-primer/v1.0.3)
 
 ### 电子书
 
