@@ -1,4 +1,5 @@
 title: Hello World
+date: 2016-02-20
 ---
 
 ## Rust 中文社区正式成立了

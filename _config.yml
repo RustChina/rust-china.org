@@ -10,6 +10,19 @@ author: RustChina
 language: zh
 timezone:
 
+theme_config:
+  menu:
+    主页: /
+    归档: /archives/
+    书目: /books/
+    维基: https://wiki.rust-china.org
+    交流: /discuss/
+    关于: /about/
+    GitHub: https://github.com/RustChina
+    Rss: /atom.xml
+  favicon: /favicon.png
+  logo: /favicon.png
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://rust-china.org
@@ -63,7 +76,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: again
+theme: apollo
 
 feed:
   type: atom
